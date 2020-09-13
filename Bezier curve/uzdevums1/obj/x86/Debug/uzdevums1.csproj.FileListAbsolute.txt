@@ -7,3 +7,10 @@ D:\Datorgrafika\uzdevums1\uzdevums1\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Datorgrafika\uzdevums1\uzdevums1\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\Datorgrafika\uzdevums1\uzdevums1\obj\x86\Debug\uzdevums1.exe
 D:\Datorgrafika\uzdevums1\uzdevums1\obj\x86\Debug\uzdevums1.pdb
+C:\Users\Professional\Downloads\uzdevums1\Bezier curve\uzdevums1\obj\x86\Debug\uzdevums1.pdb
+C:\Users\Professional\Downloads\uzdevums1\Bezier curve\uzdevums1\bin\Debug\uzdevums1.exe
+C:\Users\Professional\Downloads\uzdevums1\Bezier curve\uzdevums1\bin\Debug\uzdevums1.pdb
+C:\Users\Professional\Downloads\uzdevums1\Bezier curve\uzdevums1\obj\x86\Debug\uzdevums1.Form1.resources
+C:\Users\Professional\Downloads\uzdevums1\Bezier curve\uzdevums1\obj\x86\Debug\uzdevums1.Properties.Resources.resources
+C:\Users\Professional\Downloads\uzdevums1\Bezier curve\uzdevums1\obj\x86\Debug\uzdevums1.csproj.GenerateResource.Cache
+C:\Users\Professional\Downloads\uzdevums1\Bezier curve\uzdevums1\obj\x86\Debug\uzdevums1.exe
