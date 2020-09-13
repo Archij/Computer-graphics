@@ -1,0 +1,7 @@
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika_2\uzdevums2\bin\Release\uzdevums2.exe
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika_2\uzdevums2\bin\Release\uzdevums2.pdb
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika_2\uzdevums2\obj\x86\Release\uzdevums2.Form1.resources
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika_2\uzdevums2\obj\x86\Release\uzdevums2.Properties.Resources.resources
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika_2\uzdevums2\obj\x86\Release\uzdevums2.csproj.GenerateResource.Cache
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika_2\uzdevums2\obj\x86\Release\uzdevums2.exe
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika_2\uzdevums2\obj\x86\Release\uzdevums2.pdb
