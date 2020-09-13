@@ -499,7 +499,7 @@ namespace uzdevums1
             label1.Location = new Point(184, 28);
             label2.Text = "yc";
             label2.Location = new Point(305, 29);
-            label3.Text = "rādiuss";
+            label3.Text = "radius";
             label3.Location = new Point(427, 28);
             label4.Hide();
             textBox1.Text = "";
@@ -603,7 +603,7 @@ namespace uzdevums1
             Controls.Add(label10);
             label11 = new Label();
             label11.Location = new Point(620, 6);
-            label11.Text = "Laika solis";
+            label11.Text = "Time step";
             label11.Show();
             label11.Size = new Size(100, 15);
             label11.Name = "label11";
