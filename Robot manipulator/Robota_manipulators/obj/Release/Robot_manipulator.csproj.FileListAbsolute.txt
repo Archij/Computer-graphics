@@ -1,0 +1,13 @@
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\obj\Release\Robota_manipulators.Form1.resources
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\obj\Release\Robota_manipulators.OpenGLControl.resources
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\obj\Release\Robota_manipulators.Properties.Resources.resources
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\obj\Release\Robota_manipulators.UserControl1.resources
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\obj\Release\Robota_manipulators.csproj.GenerateResource.Cache
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\bin\Release\Robota_manipulators.exe
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\bin\Release\Robota_manipulators.pdb
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\bin\Release\SharpGL.dll
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\bin\Release\SharpGL.pdb
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\obj\Release\Robota_manipulators.csprojResolveAssemblyReference.cache
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\obj\Release\Robota_manipulators.exe
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\obj\Release\Robota_manipulators.pdb
+C:\Users\Professional\Downloads\arturs_stepcenko_datorgrafika5\Robota_manipulators\bin\Release\Robota_manipulators.exe.config
